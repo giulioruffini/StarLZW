@@ -1,0 +1,10 @@
+\contentsline {section}{\tocsection {}{}{Abstract}}{1}
+\contentsline {section}{\tocsection {}{1}{LZW compression: the main concept}}{2}
+\contentsline {section}{\tocsection {}{2}{The process of digitization}}{2}
+\contentsline {section}{\tocsection {}{3}{LZW and entropy rate for stochastic processes}}{3}
+\contentsline {section}{\tocsection {}{4}{Metrics}}{4}
+\contentsline {section}{\tocsection {}{5}{Fundamental Normalization of LZW}}{4}
+\contentsline {section}{\tocsection {}{6}{Other normalizations or measures}}{4}
+\contentsline {section}{\tocsection {}{7}{LZW and Kolmogorov complexity}}{5}
+\contentsline {section}{\tocsection {}{}{References}}{5}
+\contentsline {section}{\tocsection {}{}{Annex: StarLZW.py}}{6}

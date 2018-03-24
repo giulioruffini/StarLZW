@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{Cover:2006aa}
+Thomas~M. Cover and Joy~A. Thomas.
+\newblock {\em Elements of information theory}.
+\newblock John Wiley \& sons, 2 edition, 2006.
+
+\bibitem{Kaspar:1987aa}
+F.~Kaspar and H.~G. Schuster.
+\newblock Easily calculable measure for the complexity of spatiotemporal
+  patterns.
+\newblock {\em Phys. Rev. A}, 36(2):842--848, 1987.
+
+\bibitem{Lempel:1976aa}
+A~Lempel and J~Ziv.
+\newblock On the complexity of finite sequences.
+\newblock {\em IEEE Transactions on Information Theory}, IT-22(1):75--81,
+  January 1976.
+
+\bibitem{Ruffini:2016ac}
+G.~Ruffini.
+\newblock An algorithmic information theory of consciousness.
+\newblock {\em Submitted to the Neuroscience of Consciousness}, August 2016.
+
+\bibitem{Ruffini:2016ad}
+Giulio Ruffini, David~Iba\ nez, Marta Castellano, Stephen Dunne, and Aureli
+  Soria-Frisch.
+\newblock Eeg-driven rnn classification for prognosis of neurodegeneration in
+  at-risk patients.
+\newblock {\em ICANN 2016}, 2016.
+
+\end{thebibliography}

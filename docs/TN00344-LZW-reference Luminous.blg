@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TN00344-LZW-reference Luminous.aux
+The style file: plain.bst
+Database file #1: kolmogorov.bib
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            530 strings with 4793 characters,
+and the built_in function-call counts, 1460 in all, are:
+= -- 138
+> -- 74
+< -- 0
++ -- 30
+- -- 24
+* -- 102
+:= -- 263
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 54
+empty$ -- 109
+format.name$ -- 24
+if$ -- 292
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 26
+preamble$ -- 1
+purify$ -- 22
+quote$ -- 0
+skip$ -- 37
+stack$ -- 0
+substring$ -- 66
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 0
+while$ -- 13
+width$ -- 6
+write$ -- 55
